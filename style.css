@@ -71,3 +71,7 @@ label{
     display: flex;
     flex-direction: column;
 }
+
+.check-container h1{
+    position: center;
+}
