@@ -2,7 +2,7 @@
 ## Team Name/Number: [Raider 3]
 ## Team Members
 - [Kayloni Hartsfield] - [GitHub Username: kayharts65]
-- [Name] - [GitHub Username]
+- [Asia Flores] - [GitHub Username: asiaflores]
 - [Name] - [GitHub Username]
 - [Name] - [GitHub Username]
 ## Project Description
@@ -27,11 +27,15 @@ implements. (Refer to BMC document)
 - Designed and implemented color scheme
 - Created footer component
 - [List other specific contributions]
-### [Team Member 3 Name]
-- Implemented hero section styling
-- Made site responsive for mobile devices
-- [List other specific contributions]
+### [Asia Flores]
+- Worked on company outreach page
+- Implemented placeholder image
+- Making sure container fits
+- Created mission statement for company
   ### [Team Member 4 Name]
+  - Designed and implemented color scheme
+- Created footer component
+- [List other specific contributions]
 - Implemented hero section styling
 - Made site responsive for mobile devices
 - [List other specific contributions]
