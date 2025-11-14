@@ -3,7 +3,7 @@
 ## Team Members
 - [Kayloni Hartsfield] - [GitHub Username: kayharts65]
 - [Asia Flores] - [GitHub Username: asiaflores]
-- [Name] - [GitHub Username]
+- [Iasha Eleby] - [GitHub Username: funnga16]
 - [Name] - [GitHub Username]
 ## Project Description
 Brief description of the Connect platform and what this project
