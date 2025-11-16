@@ -1,21 +1,21 @@
 /* nav bar */
-ul {
+nav ul {
     list-style-type: none;
     text-align: center;
     background-color: #B70707;
     overflow: hidden;
     padding: 1em;
 }
-li {
+nav li {
     display: inline;
 }
-li a {
+nav li a {
     color: white;
     text-decoration: none;
     font-size: 2em;
     padding: 1em;
 }
-li a:hover {
+nav li a:hover {
     background-color: black;
 }
 /* nav bar */
@@ -227,6 +227,45 @@ label{
     font-size: 18px;
 }
 /* End Upload Button */
+/* Outreach Styling */
+.purpose {
+    margin: 50px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.purpose h1 {
+    font-size: 39px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+.purpose p {
+    font-size: 28px;
+}
+.horz-container {
+    display: flex;
+}
+.contact {
+    width: 45%;
+    margin: 50px;
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.contact h1 {
+    text-decoration: underline;
+}
+.contact ul {
+    list-style: circle;
+}
+.contact ul li {
+    font-size: 20px;
+    padding: 10px;
+}
+.graph {
+    margin: 5em;
+}
+/* end outreach styling */
 
 /*Verification Styling */
 .ver-container{
