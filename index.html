@@ -30,10 +30,10 @@
         <main>
             <div class = "profile-container">
                 <div>
-                    <img id="profile" src="assets/profile.webp">
-                    <h2>My Profile</h2>
+                    <img id="profile" src="assets/profile.webp" width="500" height="500">
+                    <br>
+                    <h2 id="prof">My Profile</h2>
                     <div class="input-group">
-                        <h3>Email:</h3>
                             <input 
                                    type="text" 
                                    name="" 
@@ -44,51 +44,53 @@
                             <span class="border"></span>
                     </div>
                     <div class="input-group">
-                        <h3>Phone Number:</h3>
                             <input type="text" name="" id="" class="effect" placeholder="Phone Number" />
                             <span class="border"></span>
                     </div>
                     <div class="input-group">
-                        <h3>Interest/Roles:</h3>
                             <input type="text" name="" id="" class="effect" placeholder="Interest/Roles" />
                             <span class="border"></span>
                     </div>
                     <div class="input-group">
-                        <h3>Sponsorship:</h3>
-                            <input type="text" name="" id="" class="effect" placeholder="Yes/No" />
+                            <input type="text" name="" id="" class="effect" placeholder="Sponsorship: Yes/No" />
                             <span class="border"></span>
                     </div>
                     <div class="input-group">
-                        <h3>Stipend:</h3>
-                            <input type="text" name="" id="" class="effect" placeholder="Yes/No" />
+                            <input type="text" name="" id="" class="effect" placeholder="Stipend: Yes/No" />
                             <span class="border"></span>
                     </div>
                 </div>
                 <div>
-                    <h1>HELLO name!</h1>
-                    <button class="seematch">See Matches</button>
-                    <h3>Checklist</h3>
-            <!--        <ul id="task-list">
-                        <li>Upload Resume<button class="upload">Upload</button></li> 
-                        <li>Letters of Recommendation<button class="upload">Upload</button></li> 
-                        <li>Certifications<button class="upload">Upload</button></li> 
-                    </ul>
-            -->
-                    <div class="checklist">
-                        <input type="checkbox"  id="checkbox">
-                        <label for="checkbox">Upload Resume</label>
-                        <button class="upload">Upload</button>
-                        <input type="checkbox"  id="checkbox2">
-                        <label for="checkbox">Letters of Recommendation</label>
-                        <button class="upload">Upload</button>
-                        <input type="checkbox"  id="checkbox3">
-                        <label for="checkbox">Certifications</label>
-                        <button class="upload">Upload</button>
+                    <div class="intro">
+                    <h1>HELLO <u>name</u>!</h1>
+                    <button class="seematch"><a href="match.html"><span>See Matches</span></a></button>
+                    </div>
+                    <div class = "check-container">
+                    <h2 id="checkhead">Checklist</h2>
+                        <div class="checklist2">
+                            <label class="checklist"><u>Add Profile Picture</u>
+                                <input type="checkbox" checked="checked">
+                                <span class="checkmark"></span>
+                                <button class="upload">Upload</button>
+                            </label>
+                            <label class="checklist"><u>Upload Resume</u>
+                                <input type="checkbox" checked="checked">
+                                <span class="checkmark"></span>
+                                <button class="upload">Upload</button>
+                            </label>
+                            <label class="checklist"><u>Letters of Recommendation</u>
+                                <input type="checkbox" checked="checked">
+                                <span class="checkmark"></span>
+                                <button class="upload">Upload</button>
+                            </label>
+                            <label class="checklist"><u>Certifications</u>
+                                <input type="checkbox" checked="checked">
+                                <span class="checkmark"></span>
+                                <button class="upload">Upload</button>
+                            </label>
+                        </div>
                     </div>
                 </div>
-            
-            
-        
             </div>    
         </main>
     </body>
